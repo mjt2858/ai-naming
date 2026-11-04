@@ -1,0 +1,13 @@
+{
+  "name": "ai-naming-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI 起名 · 流式生成三组佳名并保存至 Supabase",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
